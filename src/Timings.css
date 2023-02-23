@@ -1,0 +1,18 @@
+.container-time {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    height: 100vh;
+}
+
+.time {
+    margin: 20px auto;
+    font-size: 20px;
+}
+
+input[type='time'] {
+    margin-left: 100px;
+    font-family: cursive;
+    font-size: 15px;
+}
